@@ -2,7 +2,7 @@
 
 - You can check out my website [here](www.joshuamoore.dev)
 - I'd love to connect on [LinkedIn](https://www.linkedin.com/in/jomimo)
-
+- Send inquries to josmoodev@gmail.com 
 <!--
 **josmoo/josmoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
