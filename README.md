@@ -1,4 +1,4 @@
-## Hey, I'm Josh!
+## Hey, I'm Josh! 👋
 
 - You can check out my website [here](www.joshuamoore.dev)
 - I'd love to connect on [LinkedIn](https://www.linkedin.com/in/jomimo)
